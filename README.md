@@ -38,7 +38,7 @@ var ts = now()
 
  - Raynos
 
-## MIT Licenced
+## MIT Licensed
 
   [1]: https://secure.travis-ci.org/Raynos/date-now.png
   [2]: http://travis-ci.org/Raynos/date-now
